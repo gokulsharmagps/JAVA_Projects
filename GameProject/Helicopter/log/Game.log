@@ -1,0 +1,525 @@
+2017-08-23 15:18:53 DEBUG GameSplashScreen:151 - SplashScreen Constructor called
+2017-08-23 15:18:55 DEBUG GameSplashScreen:217 - Creating MainScreen
+2017-08-23 15:19:05 DEBUG Login_Register:158 - Registering User
+2017-08-23 15:19:07 INFO  Login_Register:187 - gokulRegistered
+2017-08-23 15:19:15 DEBUG Login_Register:234 - logging in user
+2017-08-23 15:19:16 INFO  Login_Register:250 - gokullogged in
+2017-08-23 15:19:22 DEBUG Board:118 - Demon Constructor called
+2017-08-23 15:19:22 DEBUG Board:155 - Demons Constructed
+2017-08-23 15:19:22 DEBUG Board:160 - Snitch constructor called
+2017-08-23 15:19:22 DEBUG Board:180 - snitch constructed
+2017-08-23 15:19:22 DEBUG Board:184 - Clouds Constructor called
+2017-08-23 15:19:22 DEBUG Board:222 - Clouds Constructed
+2017-08-23 15:26:04 DEBUG MainScreen:90 - MainScreen Constructed
+2017-08-23 15:26:04 DEBUG GameSplashScreen:151 - SplashScreen Constructor called
+2017-08-23 15:26:06 DEBUG GameSplashScreen:217 - Creating MainScreen
+2017-08-23 15:26:20 DEBUG Login_Register:234 - logging in user
+2017-08-23 15:26:21 INFO  Login_Register:250 - gokullogged in
+2017-08-23 15:26:26 INFO  MainScreen:60 - Game Started
+2017-08-23 15:26:27 DEBUG Board:118 - Demon Constructor called
+2017-08-23 15:26:27 DEBUG Board:155 - Demons Constructed
+2017-08-23 15:26:27 DEBUG Board:160 - Snitch constructor called
+2017-08-23 15:26:27 DEBUG Board:180 - snitch constructed
+2017-08-23 15:26:27 DEBUG Board:184 - Clouds Constructor called
+2017-08-23 15:26:27 DEBUG Board:222 - Clouds Constructed
+2017-08-23 15:26:36 INFO  Login_Register:97 - Game ended with score- 0
+2017-08-23 15:28:14 DEBUG MainScreen:90 - MainScreen Constructed
+2017-08-23 15:28:14 DEBUG GameSplashScreen:151 - SplashScreen Constructor called
+2017-08-23 15:28:16 DEBUG GameSplashScreen:217 - Creating MainScreen
+2017-08-23 15:28:29 DEBUG Login_Register:234 - logging in user
+2017-08-23 15:28:30 INFO  Login_Register:250 - gokullogged in
+2017-08-23 15:28:33 INFO  MainScreen:60 - Game Started
+2017-08-23 15:28:34 DEBUG Board:118 - Demon Constructor called
+2017-08-23 15:28:34 DEBUG Board:155 - Demons Constructed
+2017-08-23 15:28:34 DEBUG Board:160 - Snitch constructor called
+2017-08-23 15:28:34 DEBUG Board:180 - snitch constructed
+2017-08-23 15:28:34 DEBUG Board:184 - Clouds Constructor called
+2017-08-23 15:28:34 DEBUG Board:222 - Clouds Constructed
+2017-08-23 15:28:54 INFO  Login_Register:97 - Game ended with score- 0
+2017-08-23 15:31:08 DEBUG MainScreen:90 - MainScreen Constructed
+2017-08-23 15:31:08 DEBUG GameSplashScreen:151 - SplashScreen Constructor called
+2017-08-23 15:31:10 DEBUG GameSplashScreen:217 - Creating MainScreen
+2017-08-23 15:31:25 DEBUG Login_Register:234 - logging in user
+2017-08-23 15:31:26 INFO  Login_Register:250 - gokullogged in
+2017-08-23 15:31:28 INFO  MainScreen:60 - Game Started
+2017-08-23 15:31:29 DEBUG Board:118 - Demon Constructor called
+2017-08-23 15:31:29 DEBUG Board:155 - Demons Constructed
+2017-08-23 15:31:29 DEBUG Board:160 - Snitch constructor called
+2017-08-23 15:31:29 DEBUG Board:180 - snitch constructed
+2017-08-23 15:31:29 DEBUG Board:184 - Clouds Constructor called
+2017-08-23 15:31:29 DEBUG Board:222 - Clouds Constructed
+2017-08-23 15:31:50 INFO  Login_Register:97 - Game ended with score- 0
+2017-08-23 15:41:01 INFO  Login_Register:250 - gokullogged in
+2017-08-23 15:41:04 INFO  MainScreen:60 - Game Started
+2017-08-23 15:41:40 INFO  Login_Register:97 - Game ended with score- 0
+2017-08-23 15:45:08 INFO  Login_Register:250 - gokullogged in
+2017-08-23 15:45:10 INFO  MainScreen:60 - Game Started
+2017-08-23 15:46:08 INFO  Login_Register:97 - Game ended with score- 0
+2017-08-23 15:46:32 INFO  MainScreen:60 - Game Started
+2017-08-23 15:47:05 INFO  Login_Register:97 - Game ended with score- 0
+2017-08-23 15:49:20 INFO  Login_Register:250 - gokullogged in
+2017-08-23 15:55:13 INFO  Login_Register:252 - gokullogged in
+2017-08-23 15:55:43 INFO  Login_Register:252 - gokullogged in
+2017-08-23 15:56:16 INFO  Login_Register:252 - gokullogged in
+2017-08-23 15:56:39 INFO  MainScreen:60 - Game Started
+2017-08-23 15:57:10 INFO  Login_Register:97 - Game ended with score- 0
+2017-08-23 15:57:39 INFO  MainScreen:60 - Game Started
+2017-08-23 15:58:03 INFO  Login_Register:97 - Game ended with score- 0
+2017-08-23 16:00:38 INFO  Login_Register:252 - gokullogged in
+2017-08-23 16:00:43 INFO  MainScreen:60 - Game Started
+2017-08-23 16:01:40 INFO  Login_Register:252 - gokullogged in
+2017-08-23 16:01:48 INFO  MainScreen:60 - Game Started
+2017-08-23 16:02:29 INFO  Login_Register:252 - gokullogged in
+2017-08-23 16:02:32 INFO  MainScreen:60 - Game Started
+2017-08-24 01:16:13 INFO  Login_Register:248 - gokullogged in
+2017-08-24 01:16:16 INFO  MainScreen:76 - Game Started
+2017-08-24 11:47:13 INFO  Login_Register:248 - gokullogged in
+2017-08-24 11:47:16 INFO  MainScreen:87 - Game Started
+2017-08-24 11:47:41 INFO  Login_Register:97 - Game ended with score- 0
+2017-08-24 11:47:57 INFO  MainScreen:87 - Game Started
+2017-08-24 11:48:19 INFO  Login_Register:97 - Game ended with score- 0
+2017-08-24 14:58:24 INFO  Login_Register:171 - ganeshRegistered
+2017-08-24 14:58:40 INFO  Login_Register:248 - ganeshlogged in
+2017-08-24 14:58:45 INFO  MainScreen:87 - Game Started
+2017-08-24 14:59:03 INFO  Login_Register:97 - Game ended with score- 0
+2017-08-24 20:05:48 INFO  Login_Register:171 - gokulRegistered
+2017-08-24 20:05:58 INFO  Login_Register:248 - gokullogged in
+2017-08-24 20:06:01 INFO  MainScreen:87 - Game Started
+2017-08-24 20:07:26 INFO  Login_Register:66 - Game ended with score- 0
+2017-08-24 22:43:04 INFO  Login_Register:248 - gokullogged in
+2017-08-24 22:43:07 INFO  MainScreen:87 - Game Started
+2017-08-24 22:43:52 INFO  Login_Register:248 - gokullogged in
+2017-08-24 22:44:01 INFO  MainScreen:87 - Game Started
+2017-08-24 22:44:13 INFO  Login_Register:78 - Game ended with score- 0
+2017-08-24 22:44:35 INFO  MainScreen:87 - Game Started
+2017-08-24 22:44:46 INFO  Login_Register:78 - Game ended with score- 0
+2017-08-24 22:45:57 INFO  Login_Register:248 - gokullogged in
+2017-08-24 22:46:00 INFO  MainScreen:87 - Game Started
+2017-08-24 22:46:42 INFO  Login_Register:248 - gokullogged in
+2017-08-24 22:46:44 INFO  MainScreen:87 - Game Started
+2017-08-24 22:49:48 INFO  Login_Register:248 - gokullogged in
+2017-08-24 22:49:52 INFO  MainScreen:87 - Game Started
+2017-08-24 22:50:10 INFO  Login_Register:78 - Game ended with score- 0
+2017-08-24 22:50:22 INFO  MainScreen:87 - Game Started
+2017-08-24 22:51:01 INFO  Login_Register:78 - Game ended with score- 0
+2017-08-25 01:23:05 INFO  Login_Register:248 - gokullogged in
+2017-08-25 01:23:07 INFO  MainScreen:87 - Game Started
+2017-08-25 01:23:17 INFO  Login_Register:78 - Game ended with score- 0
+2017-09-07 10:08:11 DEBUG MainScreen:117 - MainScreen Constructed
+2017-09-07 10:08:11 DEBUG GameSplashScreen:151 - SplashScreen Constructor called
+2017-09-07 10:08:15 DEBUG GameSplashScreen:220 - Creating MainScreen
+2017-09-07 10:09:05 DEBUG Login_Register:156 - Registering User
+2017-09-07 10:09:07 INFO  Login_Register:171 - harshit1Registered
+2017-09-07 10:09:24 DEBUG Login_Register:232 - logging in user
+2017-09-07 10:09:30 DEBUG Login_Register:232 - logging in user
+2017-09-07 10:09:39 DEBUG Login_Register:232 - logging in user
+2017-09-07 10:09:52 DEBUG Login_Register:156 - Registering User
+2017-09-07 10:09:53 INFO  Login_Register:171 - harshitRegistered
+2017-09-07 10:10:05 DEBUG Login_Register:232 - logging in user
+2017-09-07 10:10:08 INFO  Login_Register:248 - harshitlogged in
+2017-09-07 10:10:15 INFO  MainScreen:87 - Game Started
+2017-09-07 10:10:17 DEBUG Board:119 - Demon Constructor called
+2017-09-07 10:10:17 DEBUG Board:156 - Demons Constructed
+2017-09-07 10:10:17 DEBUG Board:161 - Snitch constructor called
+2017-09-07 10:10:17 DEBUG Board:181 - snitch constructed
+2017-09-07 10:10:17 DEBUG Board:185 - Clouds Constructor called
+2017-09-07 10:10:17 DEBUG Board:223 - Clouds Constructed
+2017-09-07 10:10:36 INFO  Login_Register:78 - Game ended with score- 0
+2017-09-07 10:14:10 DEBUG MainScreen:117 - MainScreen Constructed
+2017-09-07 10:14:10 DEBUG GameSplashScreen:151 - SplashScreen Constructor called
+2017-09-07 10:14:19 DEBUG GameSplashScreen:220 - Creating MainScreen
+2017-09-07 10:14:30 DEBUG Login_Register:156 - Registering User
+2017-09-07 10:14:32 INFO  Login_Register:185 - gokulRegistered
+2017-09-07 10:14:39 DEBUG Login_Register:156 - Registering User
+2017-09-07 10:14:47 DEBUG Login_Register:232 - logging in user
+2017-09-07 10:14:49 INFO  Login_Register:248 - gokullogged in
+2017-09-07 10:14:52 INFO  MainScreen:87 - Game Started
+2017-09-07 10:14:53 DEBUG Board:119 - Demon Constructor called
+2017-09-07 10:14:53 DEBUG Board:156 - Demons Constructed
+2017-09-07 10:14:53 DEBUG Board:161 - Snitch constructor called
+2017-09-07 10:14:53 DEBUG Board:181 - snitch constructed
+2017-09-07 10:14:53 DEBUG Board:185 - Clouds Constructor called
+2017-09-07 10:14:53 DEBUG Board:223 - Clouds Constructed
+2017-09-07 10:15:01 INFO  Login_Register:78 - Game ended with score- 0
+2017-09-07 10:15:08 INFO  MainScreen:87 - Game Started
+2017-09-07 10:15:08 DEBUG Board:119 - Demon Constructor called
+2017-09-07 10:15:08 DEBUG Board:156 - Demons Constructed
+2017-09-07 10:15:08 DEBUG Board:161 - Snitch constructor called
+2017-09-07 10:15:08 DEBUG Board:181 - snitch constructed
+2017-09-07 10:15:08 DEBUG Board:185 - Clouds Constructor called
+2017-09-07 10:15:08 DEBUG Board:223 - Clouds Constructed
+2017-09-07 10:15:16 INFO  Login_Register:78 - Game ended with score- 0
+2017-09-07 10:16:29 DEBUG MainScreen:117 - MainScreen Constructed
+2017-09-07 10:16:29 DEBUG GameSplashScreen:151 - SplashScreen Constructor called
+2017-09-07 10:16:33 DEBUG GameSplashScreen:220 - Creating MainScreen
+2017-09-07 10:17:00 DEBUG Login_Register:156 - Registering User
+2017-09-07 10:17:01 INFO  Login_Register:171 - aayushRegistered
+2017-09-07 10:17:14 DEBUG Login_Register:232 - logging in user
+2017-09-07 10:17:21 DEBUG Login_Register:232 - logging in user
+2017-09-07 10:17:22 INFO  Login_Register:248 - aayushlogged in
+2017-09-07 10:17:27 INFO  MainScreen:87 - Game Started
+2017-09-07 10:17:27 DEBUG Board:119 - Demon Constructor called
+2017-09-07 10:17:27 DEBUG Board:156 - Demons Constructed
+2017-09-07 10:17:27 DEBUG Board:161 - Snitch constructor called
+2017-09-07 10:17:27 DEBUG Board:181 - snitch constructed
+2017-09-07 10:17:27 DEBUG Board:185 - Clouds Constructor called
+2017-09-07 10:17:27 DEBUG Board:223 - Clouds Constructed
+2017-09-07 10:17:47 INFO  Login_Register:78 - Game ended with score- 0
+2017-09-10 19:12:34 DEBUG MainScreen:117 - MainScreen Constructed
+2017-09-10 19:12:35 DEBUG GameSplashScreen:151 - SplashScreen Constructor called
+2017-09-10 19:12:45 DEBUG GameSplashScreen:220 - Creating MainScreen
+2017-09-10 19:13:43 DEBUG Login_Register:156 - Registering User
+2017-09-10 19:13:45 INFO  Login_Register:171 - gokulRegistered
+2017-09-10 19:13:53 DEBUG Login_Register:156 - Registering User
+2017-09-10 19:13:56 DEBUG Login_Register:156 - Registering User
+2017-09-10 19:13:59 DEBUG Login_Register:232 - logging in user
+2017-09-10 19:14:00 INFO  Login_Register:248 - gokullogged in
+2017-09-10 19:14:02 INFO  MainScreen:87 - Game Started
+2017-09-10 19:14:03 DEBUG Board:119 - Demon Constructor called
+2017-09-10 19:14:03 DEBUG Board:156 - Demons Constructed
+2017-09-10 19:14:03 DEBUG Board:161 - Snitch constructor called
+2017-09-10 19:14:03 DEBUG Board:181 - snitch constructed
+2017-09-10 19:14:03 DEBUG Board:185 - Clouds Constructor called
+2017-09-10 19:14:03 DEBUG Board:223 - Clouds Constructed
+2017-09-10 19:14:13 INFO  Login_Register:78 - Game ended with score- 0
+2017-09-10 19:14:19 INFO  MainScreen:87 - Game Started
+2017-09-10 19:14:20 DEBUG Board:119 - Demon Constructor called
+2017-09-10 19:14:20 DEBUG Board:156 - Demons Constructed
+2017-09-10 19:14:20 DEBUG Board:161 - Snitch constructor called
+2017-09-10 19:14:20 DEBUG Board:181 - snitch constructed
+2017-09-10 19:14:20 DEBUG Board:185 - Clouds Constructor called
+2017-09-10 19:14:20 DEBUG Board:223 - Clouds Constructed
+2017-09-10 19:14:43 INFO  Login_Register:78 - Game ended with score- 0
+2017-09-10 19:14:48 INFO  MainScreen:87 - Game Started
+2017-09-10 19:14:49 DEBUG Board:119 - Demon Constructor called
+2017-09-10 19:14:49 DEBUG Board:156 - Demons Constructed
+2017-09-10 19:14:49 DEBUG Board:161 - Snitch constructor called
+2017-09-10 19:14:49 DEBUG Board:181 - snitch constructed
+2017-09-10 19:14:49 DEBUG Board:185 - Clouds Constructor called
+2017-09-10 19:14:49 DEBUG Board:223 - Clouds Constructed
+2017-09-10 19:14:58 INFO  Login_Register:78 - Game ended with score- 0
+2017-09-10 19:15:02 INFO  MainScreen:87 - Game Started
+2017-09-10 19:15:03 DEBUG Board:119 - Demon Constructor called
+2017-09-10 19:15:03 DEBUG Board:156 - Demons Constructed
+2017-09-10 19:15:03 DEBUG Board:161 - Snitch constructor called
+2017-09-10 19:15:03 DEBUG Board:181 - snitch constructed
+2017-09-10 19:15:03 DEBUG Board:185 - Clouds Constructor called
+2017-09-10 19:15:03 DEBUG Board:223 - Clouds Constructed
+2017-09-10 19:15:21 INFO  Login_Register:78 - Game ended with score- 0
+2017-09-10 19:19:07 DEBUG MainScreen:117 - MainScreen Constructed
+2017-09-10 19:19:07 DEBUG GameSplashScreen:151 - SplashScreen Constructor called
+2017-09-10 19:19:11 DEBUG GameSplashScreen:220 - Creating MainScreen
+2017-09-10 19:19:24 DEBUG Login_Register:232 - logging in user
+2017-09-10 19:19:26 INFO  Login_Register:248 - gokullogged in
+2017-09-10 19:19:28 INFO  MainScreen:87 - Game Started
+2017-09-10 19:19:29 DEBUG Board:119 - Demon Constructor called
+2017-09-10 19:19:29 DEBUG Board:156 - Demons Constructed
+2017-09-10 19:19:29 DEBUG Board:161 - Snitch constructor called
+2017-09-10 19:19:29 DEBUG Board:181 - snitch constructed
+2017-09-10 19:19:29 DEBUG Board:185 - Clouds Constructor called
+2017-09-10 19:19:29 DEBUG Board:223 - Clouds Constructed
+2017-09-10 19:28:14 DEBUG MainScreen:117 - MainScreen Constructed
+2017-09-10 19:28:14 DEBUG GameSplashScreen:151 - SplashScreen Constructor called
+2017-09-10 19:28:16 DEBUG GameSplashScreen:220 - Creating MainScreen
+2017-09-10 19:28:40 DEBUG Login_Register:247 - logging in user
+2017-09-10 19:28:43 INFO  Login_Register:263 - gokullogged in
+2017-09-10 19:30:16 DEBUG MainScreen:117 - MainScreen Constructed
+2017-09-10 19:30:16 DEBUG GameSplashScreen:151 - SplashScreen Constructor called
+2017-09-10 19:30:18 DEBUG GameSplashScreen:220 - Creating MainScreen
+2017-09-10 19:30:29 DEBUG Login_Register:248 - logging in user
+2017-09-10 19:32:30 DEBUG MainScreen:117 - MainScreen Constructed
+2017-09-10 19:32:30 DEBUG GameSplashScreen:151 - SplashScreen Constructor called
+2017-09-10 19:32:33 DEBUG GameSplashScreen:220 - Creating MainScreen
+2017-09-10 19:32:36 DEBUG Login_Register:266 - logging in user
+2017-09-10 19:32:37 DEBUG Login_Register:266 - logging in user
+2017-09-10 19:32:38 DEBUG Login_Register:266 - logging in user
+2017-09-10 19:32:47 DEBUG Login_Register:266 - logging in user
+2017-09-10 19:32:48 INFO  Login_Register:282 - gokullogged in
+2017-09-10 19:32:58 DEBUG Login_Register:190 - Registering User
+2017-09-10 19:32:59 DEBUG Login_Register:190 - Registering User
+2017-09-10 19:33:08 DEBUG Login_Register:190 - Registering User
+2017-09-10 19:33:09 DEBUG Login_Register:190 - Registering User
+2017-09-10 19:33:19 DEBUG Login_Register:190 - Registering User
+2017-09-10 19:33:20 INFO  Login_Register:205 - gokulsRegistered
+2017-09-10 19:33:20 DEBUG Login_Register:190 - Registering User
+2017-09-10 19:33:21 INFO  Login_Register:205 - Registered
+2017-09-10 19:33:31 DEBUG Login_Register:266 - logging in user
+2017-09-10 19:33:32 DEBUG Login_Register:266 - logging in user
+2017-09-10 19:33:33 DEBUG Login_Register:266 - logging in user
+2017-09-10 19:33:40 DEBUG Login_Register:190 - Registering User
+2017-09-10 19:33:41 INFO  Login_Register:205 - gokulsRegistered
+2017-09-10 19:33:50 DEBUG Login_Register:266 - logging in user
+2017-09-10 19:33:51 INFO  Login_Register:282 - gokulslogged in
+2017-09-10 19:33:53 INFO  MainScreen:87 - Game Started
+2017-09-10 19:33:54 DEBUG Board:119 - Demon Constructor called
+2017-09-10 19:33:55 DEBUG Board:156 - Demons Constructed
+2017-09-10 19:33:55 DEBUG Board:161 - Snitch constructor called
+2017-09-10 19:33:55 DEBUG Board:181 - snitch constructed
+2017-09-10 19:33:55 DEBUG Board:185 - Clouds Constructor called
+2017-09-10 19:33:55 DEBUG Board:223 - Clouds Constructed
+2017-09-10 19:34:48 INFO  Login_Register:78 - Game ended with score- 0
+2017-09-10 19:38:26 DEBUG MainScreen:117 - MainScreen Constructed
+2017-09-10 19:38:26 DEBUG GameSplashScreen:151 - SplashScreen Constructor called
+2017-09-10 19:38:28 DEBUG GameSplashScreen:220 - Creating MainScreen
+2017-09-10 19:38:36 DEBUG Login_Register:266 - logging in user
+2017-09-10 19:38:37 DEBUG Login_Register:266 - logging in user
+2017-09-10 19:38:37 DEBUG Login_Register:266 - logging in user
+2017-09-10 19:38:42 DEBUG Login_Register:266 - logging in user
+2017-09-10 19:38:43 INFO  Login_Register:282 - gokulslogged in
+2017-09-10 19:38:45 INFO  MainScreen:87 - Game Started
+2017-09-10 19:38:46 DEBUG Board:120 - Demon Constructor called
+2017-09-10 19:38:46 DEBUG Board:157 - Demons Constructed
+2017-09-10 19:38:46 DEBUG Board:162 - Snitch constructor called
+2017-09-10 19:38:46 DEBUG Board:182 - snitch constructed
+2017-09-10 19:38:46 DEBUG Board:186 - Clouds Constructor called
+2017-09-10 19:38:46 DEBUG Board:224 - Clouds Constructed
+2017-09-10 19:38:58 DEBUG MainScreen:117 - MainScreen Constructed
+2017-09-10 19:38:58 DEBUG GameSplashScreen:151 - SplashScreen Constructor called
+2017-09-10 19:39:00 DEBUG GameSplashScreen:220 - Creating MainScreen
+2017-09-10 19:39:07 DEBUG Login_Register:266 - logging in user
+2017-09-10 19:39:08 INFO  Login_Register:282 - gokulslogged in
+2017-09-10 19:39:10 INFO  MainScreen:87 - Game Started
+2017-09-10 19:39:11 DEBUG Board:120 - Demon Constructor called
+2017-09-10 19:39:11 DEBUG Board:157 - Demons Constructed
+2017-09-10 19:39:11 DEBUG Board:162 - Snitch constructor called
+2017-09-10 19:39:11 DEBUG Board:182 - snitch constructed
+2017-09-10 19:39:11 DEBUG Board:186 - Clouds Constructor called
+2017-09-10 19:39:11 DEBUG Board:224 - Clouds Constructed
+2017-09-10 19:41:42 DEBUG MainScreen:117 - MainScreen Constructed
+2017-09-10 19:41:42 DEBUG GameSplashScreen:151 - SplashScreen Constructor called
+2017-09-10 19:41:44 DEBUG GameSplashScreen:220 - Creating MainScreen
+2017-09-10 19:41:50 DEBUG Login_Register:266 - logging in user
+2017-09-10 19:41:54 DEBUG Login_Register:266 - logging in user
+2017-09-10 19:41:55 INFO  Login_Register:282 - gokulslogged in
+2017-09-10 19:41:58 INFO  MainScreen:87 - Game Started
+2017-09-10 19:41:59 DEBUG Board:120 - Demon Constructor called
+2017-09-10 19:41:59 DEBUG Board:157 - Demons Constructed
+2017-09-10 19:41:59 DEBUG Board:162 - Snitch constructor called
+2017-09-10 19:41:59 DEBUG Board:182 - snitch constructed
+2017-09-10 19:41:59 DEBUG Board:186 - Clouds Constructor called
+2017-09-10 19:41:59 DEBUG Board:224 - Clouds Constructed
+2017-09-10 19:47:19 DEBUG MainScreen:117 - MainScreen Constructed
+2017-09-10 19:47:19 DEBUG GameSplashScreen:151 - SplashScreen Constructor called
+2017-09-10 19:47:21 DEBUG GameSplashScreen:220 - Creating MainScreen
+2017-09-10 19:47:28 DEBUG Login_Register:266 - logging in user
+2017-09-10 19:47:28 ERROR Login_Register:295 - java.io.FileNotFoundException: F:\JAVA\IDE\Helicopter\database\user.dat (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at userMethods.LoginUser(userMethods.java:31)
+	at Login_Register.LoginUser(Login_Register.java:275)
+	at Login_Register.access$0(Login_Register.java:265)
+	at Login_Register$6.keyReleased(Login_Register.java:166)
+	at java.awt.Component.processKeyEvent(Component.java:6494)
+	at javax.swing.JComponent.processKeyEvent(JComponent.java:2832)
+	at java.awt.Component.processEvent(Component.java:6310)
+	at java.awt.Container.processEvent(Container.java:2236)
+	at java.awt.Component.dispatchEventImpl(Component.java:4889)
+	at java.awt.Container.dispatchEventImpl(Container.java:2294)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.KeyboardFocusManager.redispatchEvent(KeyboardFocusManager.java:1954)
+	at java.awt.DefaultKeyboardFocusManager.dispatchKeyEvent(DefaultKeyboardFocusManager.java:806)
+	at java.awt.DefaultKeyboardFocusManager.preDispatchKeyEvent(DefaultKeyboardFocusManager.java:1074)
+	at java.awt.DefaultKeyboardFocusManager.typeAheadAssertions(DefaultKeyboardFocusManager.java:945)
+	at java.awt.DefaultKeyboardFocusManager.dispatchEvent(DefaultKeyboardFocusManager.java:771)
+	at java.awt.Component.dispatchEventImpl(Component.java:4760)
+	at java.awt.Container.dispatchEventImpl(Container.java:2294)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:90)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.awt.EventQueue$4.run(EventQueue.java:729)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+
+2017-09-10 19:47:29 DEBUG Login_Register:266 - logging in user
+2017-09-10 19:47:29 ERROR Login_Register:295 - java.io.FileNotFoundException: F:\JAVA\IDE\Helicopter\database\user.dat (The system cannot find the file specified)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at java.io.FileInputStream.<init>(FileInputStream.java:93)
+	at userMethods.LoginUser(userMethods.java:31)
+	at Login_Register.LoginUser(Login_Register.java:275)
+	at Login_Register.access$0(Login_Register.java:265)
+	at Login_Register$6.keyReleased(Login_Register.java:166)
+	at java.awt.Component.processKeyEvent(Component.java:6494)
+	at javax.swing.JComponent.processKeyEvent(JComponent.java:2832)
+	at java.awt.Component.processEvent(Component.java:6310)
+	at java.awt.Container.processEvent(Container.java:2236)
+	at java.awt.Component.dispatchEventImpl(Component.java:4889)
+	at java.awt.Container.dispatchEventImpl(Container.java:2294)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.KeyboardFocusManager.redispatchEvent(KeyboardFocusManager.java:1954)
+	at java.awt.DefaultKeyboardFocusManager.dispatchKeyEvent(DefaultKeyboardFocusManager.java:806)
+	at java.awt.DefaultKeyboardFocusManager.preDispatchKeyEvent(DefaultKeyboardFocusManager.java:1074)
+	at java.awt.DefaultKeyboardFocusManager.typeAheadAssertions(DefaultKeyboardFocusManager.java:945)
+	at java.awt.DefaultKeyboardFocusManager.dispatchEvent(DefaultKeyboardFocusManager.java:771)
+	at java.awt.Component.dispatchEventImpl(Component.java:4760)
+	at java.awt.Container.dispatchEventImpl(Container.java:2294)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4711)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:90)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.awt.EventQueue$4.run(EventQueue.java:729)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+
+2017-09-10 19:47:42 DEBUG Login_Register:190 - Registering User
+2017-09-10 19:47:43 INFO  Login_Register:219 - gokulsRegistered
+2017-09-10 19:47:57 DEBUG Login_Register:266 - logging in user
+2017-09-10 19:47:58 INFO  Login_Register:282 - gokulslogged in
+2017-09-10 19:48:02 INFO  MainScreen:87 - Game Started
+2017-09-10 19:48:03 DEBUG Board:120 - Demon Constructor called
+2017-09-10 19:48:03 DEBUG Board:157 - Demons Constructed
+2017-09-10 19:48:03 DEBUG Board:162 - Snitch constructor called
+2017-09-10 19:48:03 DEBUG Board:182 - snitch constructed
+2017-09-10 19:48:03 DEBUG Board:186 - Clouds Constructor called
+2017-09-10 19:48:03 DEBUG Board:224 - Clouds Constructed
+2017-09-10 19:49:09 DEBUG MainScreen:117 - MainScreen Constructed
+2017-09-10 19:49:09 DEBUG GameSplashScreen:151 - SplashScreen Constructor called
+2017-09-10 19:49:11 DEBUG GameSplashScreen:220 - Creating MainScreen
+2017-09-10 19:49:18 DEBUG Login_Register:266 - logging in user
+2017-09-10 19:49:19 INFO  Login_Register:282 - gokulslogged in
+2017-09-10 19:49:21 INFO  MainScreen:87 - Game Started
+2017-09-10 19:49:22 DEBUG Board:120 - Demon Constructor called
+2017-09-10 19:49:22 DEBUG Board:157 - Demons Constructed
+2017-09-10 19:49:22 DEBUG Board:162 - Snitch constructor called
+2017-09-10 19:49:22 DEBUG Board:182 - snitch constructed
+2017-09-10 19:49:22 DEBUG Board:186 - Clouds Constructor called
+2017-09-10 19:49:22 DEBUG Board:224 - Clouds Constructed
+2017-09-10 19:50:59 INFO  Login_Register:78 - Game ended with score- 0
+2017-09-10 19:57:19 DEBUG MainScreen:117 - MainScreen Constructed
+2017-09-10 19:57:19 DEBUG GameSplashScreen:148 - SplashScreen Constructor called
+2017-09-10 19:57:21 DEBUG GameSplashScreen:217 - Creating MainScreen
+2017-09-10 19:59:21 DEBUG MainScreen:116 - MainScreen Constructed
+2017-09-10 19:59:21 DEBUG GameSplashScreen:144 - SplashScreen Constructor called
+2017-09-10 19:59:22 DEBUG GameSplashScreen:202 - Creating MainScreen
+2017-09-10 19:59:34 DEBUG Login_Register:256 - logging in user
+2017-09-10 19:59:39 DEBUG Login_Register:183 - Registering User
+2017-09-10 19:59:45 DEBUG Login_Register:183 - Registering User
+2017-09-10 19:59:47 INFO  Login_Register:199 - gokulRegistered
+2017-09-10 19:59:56 DEBUG Login_Register:256 - logging in user
+2017-09-10 19:59:57 INFO  Login_Register:272 - gokullogged in
+2017-09-10 20:00:00 INFO  MainScreen:86 - Game Started
+2017-09-10 20:00:01 DEBUG Board:113 - Demon Constructor called
+2017-09-10 20:00:01 DEBUG Board:148 - Demons Constructed
+2017-09-10 20:00:01 DEBUG Board:152 - Snitch constructor called
+2017-09-10 20:00:01 DEBUG Board:171 - snitch constructed
+2017-09-10 20:00:01 DEBUG Board:175 - Clouds Constructor called
+2017-09-10 20:00:01 DEBUG Board:211 - Clouds Constructed
+2017-09-10 20:00:30 INFO  Login_Register:85 - Game ended with score- 80
+2017-09-10 20:00:30 INFO  Login_Register:85 - Game ended with score- 80
+2017-09-10 20:01:55 DEBUG MainScreen:116 - MainScreen Constructed
+2017-09-10 20:01:55 DEBUG GameSplashScreen:144 - SplashScreen Constructor called
+2017-09-10 20:01:58 DEBUG GameSplashScreen:202 - Creating MainScreen
+2017-09-10 20:03:50 DEBUG MainScreen:116 - MainScreen Constructed
+2017-09-10 20:03:50 DEBUG GameSplashScreen:144 - SplashScreen Constructor called
+2017-09-10 20:03:51 DEBUG GameSplashScreen:202 - Creating MainScreen
+2017-09-10 20:04:06 DEBUG Login_Register:183 - Registering User
+2017-09-10 20:04:08 INFO  Login_Register:199 - PranavRegistered
+2017-09-10 20:04:19 DEBUG Login_Register:256 - logging in user
+2017-09-10 20:04:20 INFO  Login_Register:272 - Pranavlogged in
+2017-09-10 20:04:21 INFO  MainScreen:86 - Game Started
+2017-09-10 20:04:22 DEBUG Board:113 - Demon Constructor called
+2017-09-10 20:04:22 DEBUG Board:148 - Demons Constructed
+2017-09-10 20:04:22 DEBUG Board:152 - Snitch constructor called
+2017-09-10 20:04:22 DEBUG Board:171 - snitch constructed
+2017-09-10 20:04:22 DEBUG Board:175 - Clouds Constructor called
+2017-09-10 20:04:22 DEBUG Board:211 - Clouds Constructed
+2017-09-10 20:06:16 INFO  Login_Register:85 - Game ended with score- 130
+2017-09-10 20:06:16 INFO  Login_Register:85 - Game ended with score- 130
+2017-09-10 22:12:59 DEBUG MainScreen:116 - MainScreen Constructed
+2017-09-10 22:12:59 DEBUG GameSplashScreen:144 - SplashScreen Constructor called
+2017-09-10 22:13:07 DEBUG GameSplashScreen:202 - Creating MainScreen
+2017-09-10 22:13:21 DEBUG Login_Register:183 - Registering User
+2017-09-10 22:13:22 INFO  Login_Register:199 - gokulsRegistered
+2017-09-10 22:13:34 DEBUG Login_Register:256 - logging in user
+2017-09-10 22:13:35 INFO  Login_Register:272 - gokulslogged in
+2017-09-10 22:13:39 INFO  MainScreen:86 - Game Started
+2017-09-10 22:13:40 DEBUG Board:113 - Demon Constructor called
+2017-09-10 22:13:40 DEBUG Board:148 - Demons Constructed
+2017-09-10 22:13:40 DEBUG Board:152 - Snitch constructor called
+2017-09-10 22:13:40 DEBUG Board:171 - snitch constructed
+2017-09-10 22:13:40 DEBUG Board:175 - Clouds Constructor called
+2017-09-10 22:13:40 DEBUG Board:211 - Clouds Constructed
+2017-09-10 22:16:46 INFO  Login_Register:85 - Game ended with score- 0
+2017-09-10 22:17:24 INFO  MainScreen:86 - Game Started
+2017-09-10 22:17:25 DEBUG Board:113 - Demon Constructor called
+2017-09-10 22:17:25 DEBUG Board:148 - Demons Constructed
+2017-09-10 22:17:25 DEBUG Board:152 - Snitch constructor called
+2017-09-10 22:17:25 DEBUG Board:171 - snitch constructed
+2017-09-10 22:17:25 DEBUG Board:175 - Clouds Constructor called
+2017-09-10 22:17:25 DEBUG Board:211 - Clouds Constructed
+2017-09-10 22:19:52 INFO  Login_Register:85 - Game ended with score- 120
+2017-09-10 22:19:52 INFO  Login_Register:85 - Game ended with score- 120
+2017-09-11 09:28:37 DEBUG MainScreen:116 - MainScreen Constructed
+2017-09-11 09:28:37 DEBUG GameSplashScreen:144 - SplashScreen Constructor called
+2017-09-11 09:28:47 DEBUG GameSplashScreen:202 - Creating MainScreen
+2017-09-11 09:28:56 DEBUG Login_Register:256 - logging in user
+2017-09-11 09:28:58 INFO  Login_Register:272 - gokulslogged in
+2017-09-11 09:29:01 INFO  MainScreen:86 - Game Started
+2017-09-11 09:29:02 DEBUG Board:113 - Demon Constructor called
+2017-09-11 09:29:02 DEBUG Board:148 - Demons Constructed
+2017-09-11 09:29:02 DEBUG Board:152 - Snitch constructor called
+2017-09-11 09:29:02 DEBUG Board:171 - snitch constructed
+2017-09-11 09:29:02 DEBUG Board:175 - Clouds Constructor called
+2017-09-11 09:29:02 DEBUG Board:211 - Clouds Constructed
+2017-09-11 09:29:57 INFO  Login_Register:85 - Game ended with score- 190
+2017-09-11 09:29:57 INFO  Login_Register:85 - Game ended with score- 190
+2017-09-11 10:20:38 DEBUG MainScreen:116 - MainScreen Constructed
+2017-09-11 10:20:38 DEBUG GameSplashScreen:144 - SplashScreen Constructor called
+2017-09-11 10:20:39 DEBUG GameSplashScreen:202 - Creating MainScreen
+2017-09-11 10:21:00 DEBUG MainScreen:116 - MainScreen Constructed
+2017-09-11 10:21:00 DEBUG GameSplashScreen:144 - SplashScreen Constructor called
+2017-09-11 10:21:02 DEBUG GameSplashScreen:202 - Creating MainScreen
+2017-09-11 10:21:44 DEBUG Login_Register:183 - Registering User
+2017-09-11 10:21:51 INFO  Login_Register:199 - gokulsharmaRegistered
+2017-09-11 10:22:01 DEBUG Login_Register:256 - logging in user
+2017-09-11 10:22:04 INFO  Login_Register:272 - gokulsharmalogged in
+2017-09-11 10:22:25 INFO  MainScreen:86 - Game Started
+2017-09-11 10:22:25 DEBUG Board:113 - Demon Constructor called
+2017-09-11 10:22:25 DEBUG Board:148 - Demons Constructed
+2017-09-11 10:22:25 DEBUG Board:152 - Snitch constructor called
+2017-09-11 10:22:25 DEBUG Board:171 - snitch constructed
+2017-09-11 10:22:25 DEBUG Board:175 - Clouds Constructor called
+2017-09-11 10:22:25 DEBUG Board:211 - Clouds Constructed
+2017-09-11 10:23:00 INFO  Login_Register:85 - Game ended with score- 60
+2017-09-11 10:23:00 INFO  Login_Register:85 - Game ended with score- 60
+2017-09-11 20:17:27 INFO  MainScreen:86 - Game Started
+2017-09-11 20:17:28 DEBUG Board:113 - Demon Constructor called
+2017-09-11 20:17:28 DEBUG Board:148 - Demons Constructed
+2017-09-11 20:17:28 DEBUG Board:152 - Snitch constructor called
+2017-09-11 20:17:28 DEBUG Board:171 - snitch constructed
+2017-09-11 20:17:28 DEBUG Board:175 - Clouds Constructor called
+2017-09-11 20:17:28 DEBUG Board:211 - Clouds Constructed
+2017-09-11 20:17:57 INFO  Login_Register:85 - Game ended with score- 0
+2017-09-14 21:04:31 DEBUG MainScreen:116 - MainScreen Constructed
+2017-09-14 21:04:31 DEBUG GameSplashScreen:144 - SplashScreen Constructor called
+2017-09-14 21:04:33 DEBUG GameSplashScreen:202 - Creating MainScreen
